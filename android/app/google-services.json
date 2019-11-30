@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32951679937",
+    "firebase_url": "https://wasapdb.firebaseio.com",
+    "project_id": "wasapdb",
+    "storage_bucket": "wasapdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32951679937:android:592597beb006e71c740d40",
+        "android_client_info": {
+          "package_name": "com.example.wasap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32951679937-22jntqe4j02ndcl6q025t13ct8h06op8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUPAtroLCfhOvopUYPm3R-y464nNZu34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32951679937-22jntqe4j02ndcl6q025t13ct8h06op8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
